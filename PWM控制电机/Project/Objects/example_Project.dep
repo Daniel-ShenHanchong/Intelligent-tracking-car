@@ -1,5 +1,5 @@
 Dependencies for Project 'example', Target 'Project': (DO NOT MODIFY !)
-F (..\App\src\main.c)(0x5FC48A5F)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\App\inc -I ..\Board\inc -I ..\CMSIS\CoreSupport -I ..\Libraries\inc-I.\RTE\_Project-ID:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (..\App\src\main.c)(0x5FC48CFD)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\App\inc -I ..\Board\inc -I ..\CMSIS\CoreSupport -I ..\Libraries\inc-I.\RTE\_Project-ID:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (D:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825386C)
 I (..\CMSIS\CoreSupport\core_cm3.h)(0x5F9C1288)
 I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
