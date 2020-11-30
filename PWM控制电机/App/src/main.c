@@ -22,7 +22,7 @@ int main()
 	while(1)
 	{
 		motor_run(motor_1,200);
-		motor_run(motor_2,400);
+		motor_run(motor_2,300);
 		motor_run(motor_3,200);
 		motor_run(motor_4,400);
 	}
