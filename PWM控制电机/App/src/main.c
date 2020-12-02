@@ -21,7 +21,7 @@ int main()
 	tim_motor_init();
 	while(1)
 	{
-		motor_run(motor_1,200);
+		motor_run(motor_1,100);
 		motor_run(motor_2,300);
 		motor_run(motor_3,200);
 		motor_run(motor_4,400);
